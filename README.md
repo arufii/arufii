@@ -1,5 +1,5 @@
 -  Hi, I’m @arufii
--  I’m currently learning Unreal Engine 5
+-  I’m currently making The Eidolon Institute
 
 <!---
 arufii/arufii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
